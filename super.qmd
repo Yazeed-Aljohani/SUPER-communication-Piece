@@ -1,0 +1,54 @@
+---
+title: "From Saudi Arabia to SUPER: My Experience as an International Student in Research"
+author: "Yazeed Aljohani"
+date: today
+format: 
+  html:
+    theme: journal
+    toc: true
+    toc-depth: 2
+    code-fold: false
+    fig-align: center
+    page-layout: full
+    number-sections: false
+    smooth-scroll: true
+editor: visual
+---
+
+![](images/curc-poster.jpg){fig-alt="Presenting at CURC" width="80%"}
+
+## A Childhood Dream
+
+When I was nine years old, I told my father that I wanted to be remembered even after I was gone. He said, “Yazeed, if you want to be remembered, you need to make a difference for the next generation.” Those words stayed with me and helped shape my goals. They are one of the reasons I chose to travel far from home to study sustainability and try to make the world a better place.
+
+## From Medicine to Ecosystems
+
+At first, I studied medicine. I believed that becoming a doctor was the best way to help people. But during my fourth semester, I started to think differently. I realized that health is not just about medicine; it is also about the environment we live in. That is when I became more interested in climate change and sustainability. This new passion led me to Colorado State University.
+
+## Studying at CSU
+
+I grew up in a region where the oil industry has a big impact. I saw how energy production affects both people and the environment. Because of that, I wanted to learn how we can reduce carbon emissions while still meeting energy needs. I received a government scholarship to study Ecosystem Science and Sustainability at CSU.
+
+Being an international student came with challenges. I had to adjust to a new country, a new culture, and a different academic system. But these challenges also gave me a new point of view and helped me grow.
+
+## My Research in SUPER
+
+During the SUPER program, I worked in the Kelp Lab on a project that focused on public opinions about CSU’s new bat research facility. We looked at social media posts to understand how people feel about things like biosafety, research transparency, and diseases that can spread from animals to humans.
+
+This was my first time doing a project focused on science communication, and it gave me a new way to think about the role of scientists.
+
+## What I Learned
+
+I never expected to study social media posts as part of my science education. But this project showed me how important it is for scientists to connect with the public. I learned how to organize information, find patterns, and explain science in a way that is easier for others to understand.
+
+> "Through my journey, I've learned that science isn't just about numbers and experiments; it's also about listening and building trust."
+
+## Moving Forward
+
+SUPER helped me grow as a researcher and as a person. Whether I am working on reducing carbon emissions or supporting environmental policies, I want to keep using the communication skills I developed in this program.
+
+Being part of this program also reminded me how powerful our individual stories can be. As an international student, I learned to speak up, ask questions, and see my background as something valuable.
+
+## Final Thoughts
+
+If you are thinking about doing research as an international student, I encourage you to try it. Your voice matters, and your story has the power to make science more inclusive and meaningful.
