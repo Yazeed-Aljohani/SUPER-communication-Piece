@@ -1,18 +1,15 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Yazeed's Blog"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - href: super_blog.qmd
-        text: My Story
-
 format:
   html:
-    theme: journal
+    theme: lux
     toc: true
     smooth-scroll: true
     fig-align: center
