@@ -37,7 +37,11 @@ Being an international student came with challenges. I had to adjust to a new co
 
 ------------------------------------------------------------------------
 
-## **My Research in SUPER**
+## **My Research in SUPER** 🦇
+
+![](images/bat.jpg){fig-alt="A bat hanging upside down" width="70%"}
+
+*Photo by [James Wainscoat](https://unsplash.com/photos/a-large-bat-flying-over-a-forest-filled-with-trees-NBEAMs2N47k) on Unsplash*
 
 During the SUPER program, I worked in the Kelp Lab on a project that focused on public opinions about Colorado State University’s new bat research facility. We looked at social media posts to understand how people feel about topics such as biosafety, research transparency, and diseases that can spread from animals to humans.
 
