@@ -37,15 +37,21 @@ Being an international student came with challenges. I had to adjust to a new co
 
 ------------------------------------------------------------------------
 
-## **My Research in SUPER** 🦇
+## **My Research in SUPER**
 
 ![](images/bat.jpg){fig-alt="A bat hanging upside down" width="70%"}
 
 *Photo by [James Wainscoat](https://unsplash.com/photos/a-large-bat-flying-over-a-forest-filled-with-trees-NBEAMs2N47k) on Unsplash*
 
-During the SUPER program, I worked in the Kelp Lab on a project that focused on public opinions about Colorado State University’s new bat research facility. We looked at social media posts to understand how people feel about topics such as biosafety, research transparency, and diseases that can spread from animals to humans.
+During the **Skills for Undergraduate Participation in Ecological Research (SUPER)** program, I joined a research team in the [Kelp Lab](https://labs.vetmedbiosci.colostate.edu/kelp/), part of the Department of Microbiology, Immunology, and Pathology. The program is hosted by the Department of Ecosystem Science and Sustainability, and you can learn more about it [here](https://warnercnr.colostate.edu/ess/ess-undergraduate-degree-tracks/ess-undergraduate-internships-research/super-home/).
 
-This was my first time doing a project focused on science communication, and it gave me a new way to think about the role of scientists.
+![](images/super-logo.png)
+
+I first heard about SUPER from a class announcement, and my academic advisor encouraged me to apply since I am interested in research and planning to go to graduate school. After applying, I was fortunate to be mentored by Shelby Cagle, a PhD candidate who studies emerging infectious diseases using a One Health approach and specializes in science communication and virology.
+
+As a student in the program, I worked on a science communication project that focused on public opinions about Colorado State University’s new bat research facility. We analyzed social media posts to understand how people feel about topics such as biosafety, research transparency, and diseases that can spread from animals to humans.
+
+This was my first time doing a project focused on science communication, and it gave me a new way to think about the role of scientists. In addition to our research, I completed a formal research report, presented my poster at the CURC showcase , and wrote this blog as a final reflection piece. Each of which helped me grow as a communicator.
 
 ------------------------------------------------------------------------
 
